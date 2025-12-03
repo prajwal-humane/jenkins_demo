@@ -178,6 +178,15 @@
       <a href="#" class="btn">Enroll Now</a>
     </div>
 
+    <div class="course-card">
+      <div class="course-icon"><i class="fas fa-robot"></i></div>
+      <div class="course-title">AI-ML</div>
+      <div class="course-desc">
+        Become industry-ready with Python,deep learning, natural language processing, and generative AI  and real-time  projects.
+      </div>
+      <a href="#" class="btn">Enroll Now</a>
+    </div>
+
   </div>
 
 </body>
