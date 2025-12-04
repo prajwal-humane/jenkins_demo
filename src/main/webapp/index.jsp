@@ -173,7 +173,7 @@
       <div class="course-icon"><i class="fas fa-robot"></i></div>
       <div class="course-title">Software Testing</div>
       <div class="course-desc">
-        Become industry-ready with QA Expert ,Manual,Java,Python,Automation and real-time  projects.
+        Become industry-ready with QA Expert,Manual,Java,Python,Automation and real-time  projects.
       </div>
       <a href="#" class="btn">Enroll Now</a>
     </div>
@@ -182,7 +182,7 @@
       <div class="course-icon"><i class="fas fa-robot"></i></div>
       <div class="course-title">AI-ML</div>
       <div class="course-desc">
-        Become industry-ready with Python,deep learning, natural language processing, and generative AI  and real-time  projects.
+        Become industry-ready with Python, Deep learning, natural language processing, and generative AI  and real-time projects.
       </div>
       <a href="#" class="btn">Enroll Now</a>
     </div>
